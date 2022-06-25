@@ -50,13 +50,13 @@ const Footer = () => {
             <h2>Find us </h2>
             <article className={styled.details}>
               <p>
-                Call <span>425-251-4502</span>
+                Call <span>9876543210</span>
               </p>
               <p>
-                Address <span>28 Hope Road, Kingston</span>
+                Address <span>28 Sarojini Nagar, Delhi</span>
               </p>
               <p>
-                Mail Us <span>tgf@gmail.com</span>
+                Mail Us <span>varshorg@gmail.com</span>
               </p>
             </article>
 

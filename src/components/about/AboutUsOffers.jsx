@@ -22,7 +22,7 @@ const AboutUsOffers = () => {
 
   const offer2 = (
     <>
-      <span>declicous</span> food
+      <span>delicious</span> food
     </>
   );
 

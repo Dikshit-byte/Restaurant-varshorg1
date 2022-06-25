@@ -23,7 +23,7 @@ const CustomerFavourites = () => {
           <p className={styled.name}> {item.name}</p>
 
           <div>
-            <p className={styled.price}>$ {item.price}</p>
+            <p className={styled.price}>₹ {item.price}</p>
             <Button>order</Button>
           </div>
         </div>

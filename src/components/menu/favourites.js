@@ -6,19 +6,19 @@ export const favorites = [
   {
     id: 1,
     name: "barbecue pizza",
-    price: 2150,
+    price: 450,
     url: barbecue,
   },
   {
     id: 2,
     name: "cream cheese pasta",
-    price: 2050,
+    price: 250,
     url: pasta,
   },
   {
     id: 3,
     name: "double deluxe burger",
-    price: 1180,
+    price: 100,
     url: burger,
   },
 ];

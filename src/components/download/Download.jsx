@@ -8,7 +8,7 @@ import Wrapper from "../helpers/Wrapper";
 const Download = () => {
   const text = (
     <>
-      download <span>our tgf app</span>
+      download <span>our unknown app</span>
     </>
   );
 
@@ -28,7 +28,7 @@ const Download = () => {
           <Heading text={text} className="heading-md" />
           <Heading text={smlheading} className="heading-sml" />
           <p className="paragraph">
-            Our new TGF app is a great way to keep track of your favourite
+            Our new UNKNOWN app is a great way to keep track of your favourite
             dishes and get recommendations on what to order next. Plus, you can
             earn loyalty points every time you order through the app, which can
             be redeemed for freebies and discounts.

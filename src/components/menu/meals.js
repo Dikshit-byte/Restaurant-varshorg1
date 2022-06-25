@@ -2,48 +2,48 @@
 export const meals = [
   {
     id: 1,
-    name: "Ackee Wontons",
+    name: "Tomato Shorba",
     description:
-      "A twist on our National dish with spicy scotch bonnet-soy dipping sauce.",
-    price: 2800,
+      "A twist on our dish with spicy dipping sauce.",
+    price: 80,
     course: "Starters",
   },
   {
     id: 2,
-    name: "Fried Mozzarella",
+    name: "French Fried",
     description:
-      "Deep fried mozzarella cheese sticks with bread crumbs, eggs, garlic salt.",
-    price: 1300,
+      "Deep fried potato cheese sticks with spicy sauce and garlic salt.",
+    price: 130,
     course: "Starters",
   },
   {
     id: 3,
-    name: "Breadsticks",
+    name: "Cream Soup",
     description:
-      "Light, buttery, garlic-y, and oh so delicious dipping sticks.",
-    price: 1000,
+      "With Brocolli/ mushroom / vegetable.",
+    price: 100,
     course: "Starters",
   },
   {
     id: 4,
-    name: "Garden Salad",
+    name: "Salad",
     description: "Lettuce, tomatoes, sweet pepper & shredded carrot..",
-    price: 800,
+    price: 80,
     course: "Starters",
   },
   {
     id: 5,
     name: "Soup of the Day",
     description: "Made fresh daily. Ask your server for today's choice.",
-    price: 1200,
+    price: 120,
     course: "Starters",
   },
   {
     id: 6,
-    name: "Tacos",
+    name: "Andhra Chilli Chicken",
     description:
-      "Our epic specialties. Orders include 3 soft shell tacos with papaya salsa, smoked pepper mayo & fresh red cabbage slaw and spicy black beans",
-    price: 1800,
+      "Tender cubes of boneless chicken breast with spicy green chilli masala",
+    price: 180,
     course: "Starters",
   },
 
@@ -51,31 +51,31 @@ export const meals = [
     id: 7,
     name: "Chicken Wrap ",
     description:
-      "Our famous jerk chicken with spicy jerk sauce, cheddar cheese, lettuce, tomato & fried plantain. Served on a toasted Italian roll.",
-    price: 1650,
+      "Our famous chicken with spicy sauce, cheddar cheese, lettuce, tomato & fried plantain.",
+    price: 165,
     course: "Starters",
   },
   {
     id: 8,
-    name: "Calamari",
+    name: "Mutton chukka",
     description:
       "Deep fried and perfectly seasoned, served with a side of vegetables .",
-    price: 2520,
+    price: 252,
     course: "Starters",
   },
   {
     id: 9,
-    name: "Soup of the Day",
-    description: "Made fresh daily. Ask your server for today's choice.",
-    price: 1200,
+    name: "Indo-Chinese Chicken Lollypops",
+    description: "Crisp fried lollypop tossed with chilli, garlic & soya sauce. Ask your server for today's choice.",
+    price: 200,
     course: "Starters",
   },
   {
     id: 10,
-    name: "Banana Fritters",
+    name: "Fish Fry",
     description:
-      "Made with our sweetest and rippest bananas. Served with a side of plantains",
-    price: 1630,
+      "Choice of Nethili. Served with a side of plantains",
+    price: 163,
     course: "Starters",
   },
 
@@ -84,15 +84,15 @@ export const meals = [
     name: "Chicken Alfredo",
     description:
       "Made with heavy cream, garlic, parmesan cheese, fettuccine noodles, and tender chicken breasts for a classic Italian meal",
-    price: 2480,
+    price: 248,
     course: "Main Dishes",
   },
   {
     id: 12,
-    name: "Yaadman Cheesesteak",
+    name: "Parda Jhinga Kebab",
     description:
-      "Thinly sliced beef grilled with onions, mushrooms, sweet peppers, spicy scotch bonnet peppers & melted cheddar cheese. Served on a roasted Italian roll.",
-    price: 1200,
+      "King prawns marinated with lemon & mustard, char grilled, wrapped in roomali.",
+    price: 320,
     course: "Main Dishes",
   },
   {
@@ -100,7 +100,7 @@ export const meals = [
     name: "Coconut Curry Shrimp",
     description:
       "Fresh juicy shrimp fried with coconot flakes then slow simmered with local seasonings, in a spicy West Indian style curry sauce.",
-    price: 1630,
+    price: 163,
     course: "Main Dishes",
   },
   {
@@ -108,7 +108,7 @@ export const meals = [
     name: "Herb Grilled Salmon",
     description:
       "A simple soy sauce and brown sugar marinade, with hints of lemon and garlic, are the perfect salty-sweet complement to rich salmon fillets.",
-    price: 2150,
+    price: 215,
     course: "Main Dishes",
   },
   {
@@ -116,7 +116,7 @@ export const meals = [
     name: "Cheese ravioli",
     description:
       "Tasty ravioli recipe made with ricotta, cream cheese, mozzarella cheese, and provolone cheese. Served with marinara and pesto cream sauce.",
-    price: 1700,
+    price: 170,
     course: "Main Dishes",
   },
   {
@@ -124,7 +124,7 @@ export const meals = [
     name: "Jerk Chicken Dish",
     description:
       "A famous Jamaican dish. A spicy grilled-meat dish cooked to perfection with a blend of local seasonings. Paired with Jamaican rice and peas and fried ripe plantains.",
-    price: 1950,
+    price: 195,
     course: "Main Dishes",
   },
   {
@@ -132,23 +132,23 @@ export const meals = [
     name: "Curried Goat",
     description:
       "A traditional Jamaican made with mutton that is infused with flavours of curry powder, chopped onion, escallion, garlic, ginger, thyme and scotch bonnet pepper.",
-    price: 2360,
+    price: 236,
     course: "Main Dishes",
   },
   {
     id: 18,
-    name: "Jamaican Oxtail",
+    name: "Machi tikka",
     description:
-      "The perfect Caribbean stew. Delicious and tender oxtail and butter beans that is cooked to perfection.",
-    price: 1700,
+      "The perfect roased BASSA FISH FILLET stew. Delicious and tender oxtail and butter beans that is cooked to perfection.",
+    price: 170,
     course: "Main Dishes",
   },
   {
     id: 19,
-    name: "Grilled conch",
+    name: "Grilled Chicken",
     description:
-      "Tender Caribbean conch seasoned with Jamaican jerk spices & perfectly grilled. Served with tangy papaya salsa and crackers.",
-    price: 3150,
+      "Tender Caribbean chicken seasoned with jerk spices & perfectly grilled. Served with tangy papaya salsa and crackers.",
+    price: 310,
     course: "Main Dishes",
   },
   {
@@ -156,7 +156,7 @@ export const meals = [
     name: "Steamed Fish",
     description:
       "Lightly seasoned red snapper steamed with an assortment of bell peppers and onions with a side serving of bammy.",
-    price: 1250,
+    price: 125,
     course: "Main Dishes",
   },
   {
@@ -164,7 +164,7 @@ export const meals = [
     name: "Tiramisu",
     description:
       "A classic Italian no-bake dessert made with layers of coffee-soaked ladyfingers and incredible mascarpone cream.",
-    price: 1400,
+    price: 140,
     course: "Desserts",
   },
   {
@@ -172,7 +172,7 @@ export const meals = [
     name: "Black Tie Mousse Cake",
     description:
       "Rich layers of chocolate cake, dark chocolate cheesecake and creamy custard mousse.",
-    price: 1150,
+    price: 115,
     course: "Desserts",
   },
   {
@@ -187,7 +187,7 @@ export const meals = [
     name: "Carrot Cake",
     description:
       "Simple, sweet, moist, flavorful, and topped with cream cheese frosting!",
-    price: 1200,
+    price: 120,
     course: "Desserts",
   },
   {
@@ -195,7 +195,7 @@ export const meals = [
     name: "Doughnuts",
     description:
       "Made from soft pillowy dough, these sweet treats are then deep-fried and coated in sugar, before filling.",
-    price: 1050,
+    price: 105,
     course: "Desserts",
   },
   {
@@ -203,28 +203,28 @@ export const meals = [
     name: "Cheescake",
     description:
       "A rich, creamy texture and cherry topping for a showstopping dessert.",
-    price: 1760,
+    price: 176,
     course: "Desserts",
   },
   {
     id: 27,
     name: "Beers",
     description: "Quench your thirst with any of our well chilled beers!",
-    price: 500,
+    price: 200,
     course: "Drinks",
   },
   {
     id: 28,
     name: "Water",
     description: "Quench your thirst with a glass of chilled water!",
-    price: 150,
+    price: 20,
     course: "Drinks",
   },
   {
     id: 29,
     name: "Sodas",
     description: "Quench your thirst with any of our chilled sodas!",
-    price: 200,
+    price: 20,
     course: "Drinks",
   },
   {
@@ -232,14 +232,14 @@ export const meals = [
     name: "Piña Colada",
     description:
       "A tropical blend of rich coconut cream, white rum and tangy pineapple – serves with an umbrella for kitsch appeal.",
-    price: 550,
+    price: 50,
     course: "Drinks",
   },
   {
     id: 31,
     name: "Strawberry Daiquiri",
     description: "A smooth blend of simple syrup, rum and lime juice.",
-    price: 650,
+    price: 60,
     course: "Drinks",
   },
   {
@@ -247,7 +247,7 @@ export const meals = [
     name: "Fruit Punch",
     description:
       "Non-alcoholic drink with fresh fruit, mint, juice and lemonade, it's wonderfully refreshing.",
-    price: 550,
+    price: 50,
     course: "Drinks",
   },
 ];
